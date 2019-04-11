@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: acd785a7c6c538f40b03ee80262639b4
+timeCreated: 1520154354
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitParticle: {instanceID: 0}
+  - splashParticle: {instanceID: 0}
+  - woodSprite: {fileID: 21300000, guid: 3e3c278ca2d931e42a98190c344aa4fc, type: 3}
+  - blueWoodSprite: {fileID: 21300000, guid: 004ec6cf42e73e64ba2ed171aef53900, type: 3}
+  - WoodSplatParticle: {instanceID: 0}
+  - BlueWoodSplatParticle: {instanceID: 0}
+  - woodHitSfx: {instanceID: 0}
+  - LasthitSfx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

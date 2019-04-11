@@ -1,4 +1,4 @@
-
+# Knife Hit - Unity Clone
 Description
 Throw the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss – beat them to get exclusive knives! 
 
@@ -23,6 +23,6 @@ Version 1.3
 Fix error when building to Android. 
 
 # Screenshots
-![alt text](https://chupacdn.s3.amazonaws.com/catalog/product/cache/1/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/k/n/knife-hit-unity-clone-20090_imgs_20090_5.jpg)
-![alt text](https://chupacdn.s3.amazonaws.com/catalog/product/cache/4/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/k/n/knife-hit-unity-clone-20090_imgs_20090_4.jpg)
-![alt text](https://chupacdn.s3.amazonaws.com/catalog/product/cache/4/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/k/n/knife-hit-unity-clone-20090_imgs_20090.jpg)
+![](https://static.sellmyapp.com/wp-content/uploads/screenshot5ac4aae7db0bf.jpg)
+![](https://static.sellmyapp.com/wp-content/uploads/screenshot5ac4aafbc3dea.jpg)
+![](https://static.sellmyapp.com/wp-content/uploads/screenshot5ac4ab262be92.jpg)
